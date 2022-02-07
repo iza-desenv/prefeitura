@@ -10,9 +10,10 @@ O sistema permite que os atendentes registrem protocolos para as demandas dos co
 
 O sistema possui um Banco de Dados chamado PREFEITURA e 3 Tabelas básicas:
 
-Users
-Pessoa
-Protocolo
+1) Users
+2) Pessoa
+3) Protocolo
+
 Usei XAMPP (Apache e MySQL ativos) e phpMyAdmin como Ferramentas de Trabalho.
 
 Desenvolvimento em PHP e o Editor de Textos foi o Notepad++.
